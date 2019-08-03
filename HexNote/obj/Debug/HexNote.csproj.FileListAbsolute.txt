@@ -1,0 +1,15 @@
+C:\repos\HexNote\HexNote\bin\Debug\HexNote.exe.config
+C:\repos\HexNote\HexNote\bin\Debug\HexNote.exe
+C:\repos\HexNote\HexNote\bin\Debug\HexNote.pdb
+C:\repos\HexNote\HexNote\obj\Debug\HexNote.csprojAssemblyReference.cache
+C:\repos\HexNote\HexNote\obj\Debug\MainWindow.g.cs
+C:\repos\HexNote\HexNote\obj\Debug\App.g.cs
+C:\repos\HexNote\HexNote\obj\Debug\HexNote_MarkupCompile.cache
+C:\repos\HexNote\HexNote\obj\Debug\HexNote_MarkupCompile.lref
+C:\repos\HexNote\HexNote\obj\Debug\MainWindow.baml
+C:\repos\HexNote\HexNote\obj\Debug\HexNote.g.resources
+C:\repos\HexNote\HexNote\obj\Debug\HexNote.Properties.Resources.resources
+C:\repos\HexNote\HexNote\obj\Debug\HexNote.csproj.GenerateResource.cache
+C:\repos\HexNote\HexNote\obj\Debug\HexNote.csproj.CoreCompileInputs.cache
+C:\repos\HexNote\HexNote\obj\Debug\HexNote.exe
+C:\repos\HexNote\HexNote\obj\Debug\HexNote.pdb
